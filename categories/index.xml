@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jane —— 一个简洁的 Hugo 主题</title>
-    <link>http://wsjcko.github.io/categories/</link>
+    <link>https://wsjcko.github.io/categories/</link>
     <description>Recent content in Categories on Jane —— 一个简洁的 Hugo 主题</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 18 Jul 2020 21:14:37 +0800</lastBuildDate>
     
-	<atom:link href="http://wsjcko.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wsjcko.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hugo</title>
-      <link>http://wsjcko.github.io/categories/hugo/</link>
+      <link>https://wsjcko.github.io/categories/hugo/</link>
       <pubDate>Sat, 18 Jul 2020 21:14:37 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/hugo/</guid>
+      <guid>https://wsjcko.github.io/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://wsjcko.github.io/categories/index/</link>
+      <link>https://wsjcko.github.io/categories/index/</link>
       <pubDate>Thu, 25 Jun 2020 17:01:05 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/index/</guid>
+      <guid>https://wsjcko.github.io/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>http://wsjcko.github.io/categories/docs/</link>
+      <link>https://wsjcko.github.io/categories/docs/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/docs/</guid>
+      <guid>https://wsjcko.github.io/categories/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>http://wsjcko.github.io/categories/math/</link>
+      <link>https://wsjcko.github.io/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/math/</guid>
+      <guid>https://wsjcko.github.io/categories/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://wsjcko.github.io/categories/shortcodes/</link>
+      <link>https://wsjcko.github.io/categories/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/shortcodes/</guid>
+      <guid>https://wsjcko.github.io/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>http://wsjcko.github.io/categories/english/</link>
+      <link>https://wsjcko.github.io/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/english/</guid>
+      <guid>https://wsjcko.github.io/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://wsjcko.github.io/categories/test/</link>
+      <link>https://wsjcko.github.io/categories/test/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/test/</guid>
+      <guid>https://wsjcko.github.io/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://wsjcko.github.io/categories/development/</link>
+      <link>https://wsjcko.github.io/categories/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/development/</guid>
+      <guid>https://wsjcko.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://wsjcko.github.io/categories/golang/</link>
+      <link>https://wsjcko.github.io/categories/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/golang/</guid>
+      <guid>https://wsjcko.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://wsjcko.github.io/categories/syntax-highlighting/</link>
+      <link>https://wsjcko.github.io/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/categories/syntax-highlighting/</guid>
+      <guid>https://wsjcko.github.io/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://wsjcko.github.io/sitemap.xml
+Sitemap: https://wsjcko.github.io/sitemap.xml

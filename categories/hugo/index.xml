@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Jane —— 一个简洁的 Hugo 主题</title>
-    <link>http://wsjcko.github.io/categories/hugo/</link>
+    <link>https://wsjcko.github.io/categories/hugo/</link>
     <description>Recent content in hugo on Jane —— 一个简洁的 Hugo 主题</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 18 Jul 2020 21:14:37 +0800</lastBuildDate>
     
-	<atom:link href="http://wsjcko.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wsjcko.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo_cmd</title>
-      <link>http://wsjcko.github.io/post/hugo_cmd/</link>
+      <link>https://wsjcko.github.io/post/hugo_cmd/</link>
       <pubDate>Sat, 18 Jul 2020 21:14:37 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/post/hugo_cmd/</guid>
+      <guid>https://wsjcko.github.io/post/hugo_cmd/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -40,10 +40,10 @@
     
     <item>
       <title>hugo theme jan 搭建Blog</title>
-      <link>http://wsjcko.github.io/post/first/</link>
+      <link>https://wsjcko.github.io/post/first/</link>
       <pubDate>Sat, 18 Jul 2020 20:51:41 +0800</pubDate>
       
-      <guid>http://wsjcko.github.io/post/first/</guid>
+      <guid>https://wsjcko.github.io/post/first/</guid>
       <description>&lt;p&gt;新博客，新气象，Good Luck!&lt;/p&gt;</description>
     </item>
     

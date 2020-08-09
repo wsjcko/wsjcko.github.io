@@ -1,20 +1,20 @@
-<?xml-stylesheet type="text/xsl" href="http://wsjcko.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://wsjcko.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wsjcko.github.io/en/categories/</loc>
+    <loc>https://wsjcko.github.io/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://wsjcko.github.io/en/</loc>
+    <loc>https://wsjcko.github.io/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://wsjcko.github.io/en/tags/</loc>
+    <loc>https://wsjcko.github.io/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
